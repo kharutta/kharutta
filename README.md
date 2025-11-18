@@ -51,12 +51,4 @@
 
 ---
 
-# 🧩 **Badges**
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudio" />
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
-</p>
-
 
