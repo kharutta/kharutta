@@ -1,16 +1,62 @@
-## Hi there 👋
+---
 
-<!--
-**kharutta/kharutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🕹️ **Tech Stack**  
+<div align="center">
 
-Here are some ideas to get you started:
+### 🎨 **Frontend**
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="70">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💾 **Backend & Server**
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="70">
+
+### 📊 **Data & Analytics**
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="70">
+
+### 🧰 **Tools & Platforms**
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="70">
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="70">
+
+</div>
+
+---
+
+# 🛸 **Used IDE's**  
+<div align="center">
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80"> 
+
+</div>
+
+---
+
+# 📟 **GitHub Stats**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kharutta/kharutta/main/github-metrics.svg" />
+</div>
+
+
+---
+
+# 🧩 **Badges**
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudio" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+</p>
+
+
