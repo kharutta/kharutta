@@ -43,11 +43,11 @@
 
 ---
 
-# 📟 **GitHub Stats**
+# 📟 GitHub Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kharutta/kharutta/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/kharutta/kharutta/main/github-metrics-languages.svg" />
+  <img src="https://raw.githubusercontent.com/kharutta/kharutta/main/github-metrics-isocalendar.svg" />
 </div>
-
 
 ---
 
