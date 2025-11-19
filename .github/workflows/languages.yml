@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kharutta
           filename: github-metrics-languages.svg
+          base: ""
           plugin_languages: yes
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 14
